@@ -1,2 +1,0 @@
-import config == 0.4.0
-import telebot == 0.0.3
